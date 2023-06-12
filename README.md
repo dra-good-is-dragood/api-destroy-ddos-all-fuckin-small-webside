@@ -1,2 +1,10 @@
 # api-destroy-ddos-all-fuckin-small-webside
 just is api ddos
+setup: npm i mdl express url http tls http2 crypto
+
+ex to use: https://localhost:3000/api?target=https://hentaivn.team&time120
+
+not selling my fuckin tool🚬🐸, bitch!!!
+not attack government or edu website, and share my name to world
+
+SAY MY NAME!!!
