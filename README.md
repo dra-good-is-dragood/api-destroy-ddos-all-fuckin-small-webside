@@ -9,3 +9,7 @@ not attack government or edu website, and share my name to world
 
 SAY MY NAME!!!
 require nodejs 18.12.1 :)), is nodejs in replit 
+
+contact me:
+telegram: @dragood
+Facebook: https://www.facebook.com/profile.php?id=100088843067313
