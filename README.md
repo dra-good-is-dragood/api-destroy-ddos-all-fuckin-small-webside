@@ -8,3 +8,4 @@ not selling my fuckin tool🚬🐸, bitch!!!
 not attack government or edu website, and share my name to world
 
 SAY MY NAME!!!
+require nodejs 18.12.1 :)), is nodejs in replit 
